@@ -2,7 +2,7 @@
 
 **Hacking the future, one project at a time.**
 
-A one-person indie software studio crafting Windows apps, web tools, and developer utilities. Built by [Pavel Osadchuk](https://xakpc.dev/about/) — senior .NET engineer by day, indie hacker by night.
+A one-person indie software studio crafting Windows apps, web tools, and developer utilities. Built by [Pavel](https://github.com/XAKPC) — senior .NET engineer by day, indie hacker by night.
 
 Practical software with clean UX, solid engineering, and a bias for self-hosting and simplicity.
 
